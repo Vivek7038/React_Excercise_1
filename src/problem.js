@@ -1,0 +1,3 @@
+// Write a functional component to display an input field allowing the user to enter a name. When the user submits, the name should be added to a list of names displayed below the input field. Below the list, render two input fields to allow the user to enter two names, and when the user submits, the first name should follow the name. In other words, the second name should be added to the first name’s following and the first name should be added to the second name’s followers.
+// When the user clicks on a name in the list, issue a browser alert that displays their following and followers counts:
+// Be sure to handle edge cases, like what to do if the user attempts to make a person follow a person that they already follow, or follow themselves, etc.
